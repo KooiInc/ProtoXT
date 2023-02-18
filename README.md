@@ -5,7 +5,7 @@ with the help of Symbols.
 
 This may be useful for 'monkey patching' native JavaScript types to give them new capabilities.
 
-***Note***: this library is a fork of the [metho project](https://github.com/jonrandy/metho) from Jon Randy.
+***Note***: this library initially was a fork from the [metho project](https://github.com/jonrandy/metho) (Jon Randy).
 
 ## How to use
 
