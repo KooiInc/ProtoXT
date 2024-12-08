@@ -1,3 +1,8 @@
+# *Deprecated and not maintained anymore*
+
+This functionality can be done with plain ES20xx. Check Jon Randy's [metho project](https://github.com/jonrandy/metho) 
+if you want/need to keep using it.
+
 # ProtoXT - A new way to extend Object prototypes
 
 A small library to allow you to safely add 'dynamic properties' to (the prototype of) objects, 
